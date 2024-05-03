@@ -13,6 +13,6 @@ The Python approach is simple; it doesn’t require a static keyword.
 Note: All variables which are assigned a value in the class declaration are class variables. And variables that are assigned values inside methods are instance variables.
 
 
-[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiveintopython.org%2Flearn%2Fclasses%2Fstatic-class&psig=AOvVaw3NN1tB3CozGlzP2oZO6Yez&ust=1714817531425000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODc58ig8YUDFQAAAAAdAAAAABAE)" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
 
 
