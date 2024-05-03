@@ -1,0 +1,119 @@
+hi everyone welcome to week six
+Hola a todos, bienvenidos a la sexta semana
+
+in this video I will discuss more about
+en este video. Hablaré más sobre
+
+Python that is class or static variables
+Python, es decir, la clase o las variables estáticas
+
+in Python class or study variables are
+en la clase de Python o las variables de estudio son
+
+shared by all objects that is all
+compartidas por todos los objetos, es decir, todas
+
+instances of a class they are defined
+las instancias de una clase, están definidas
+
+within a class but outside any of the
+dentro de una clase pero fuera de cualquiera de las
+
+classes methods strands variable that is
+clases métodos hebras variable que se
+
+defined inside a method for example read
+define dentro de un método, por ejemplo, leer,
+
+a computer science student be
+un estudiante de informática, estar
+
+represented by class CS student the
+representado por una clase de estudiante de informática, la
+
+class may have a study variable whose
+clase puede tener una variable de estudio cuyo
+
+value is CSE for all objects and class
+valor es CSE para todos los objetos y la clase
+
+may also have non-static members like
+también puede tener miembros no estáticos como
+
+name and role let me demonstrate it so
+nombre y rol.  permítanme demostrarlo para
+
+that smoke cooking scoring Xie here as I
+que el humo cocine anotando a Xie aquí como lo
+
+described we have declared class CS
+describí, hemos declarado la clase CS
+
+student inside the class we have defined
+estudiante dentro de la clase, hemos definido
+
+a class variable that is stream which is
+una variable de clase que es una secuencia que se
+
+assigned by value as CSE then we defined
+asigna por valor como CSE, luego definimos
+
+a constructor which has two parameters
+un constructor que tiene dos parámetros
+
+name and role then inside the
+nombre y  rol luego, dentro del
+
+constructor we have defined constants
+constructor, hemos definido una
+
+variable which takes the value of two
+variable constante que toma el valor de dos
+
+parameters then you create two objects
+parámetros, luego creas dos objetos
+
+when any object is created it creates a
+cuando se crea cualquier objeto, crea una
+
+copy of it so after that we access class
+copia del mismo, luego accedemos a las
+
+variables using objects of CS student
+variables de clase usando objetos de CS Student
+
+ass in the last print statement we can
+Ass en la última impresión.  declaración,
+
+also access class variables using class
+también podemos acceder a variables de clase usando un
+
+name like this we can also conclude that
+nombre de clase como este, también podemos concluir que
+
+Python doesn't require any static
+Python no requiere ninguna
+
+keyword all variables which I assigned a
+palabra clave estática. Todas las variables a las que asigné un
+
+value in class declaration are class
+valor en la declaración de clase son
+
+variables and variables which are
+variables de clase y las variables a las que se les
+
+assigned value inside class methods are
+asigna un valor dentro de los métodos de clase son
+
+instance variables that's all thank you
+variables de instancia.  eso es todo gracias
+
+for watching this video please leave us
+por ver este video por favor déjanos
+
+your likes and comments in the comment
+tus me gusta y comentarios en la sección de comentarios
+
+section
+
