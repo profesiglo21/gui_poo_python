@@ -16,6 +16,10 @@ Note: All variables which are assigned a value in the class declaration are clas
 [<img src="https://files.realpython.com/media/Pythons-Instance-Class-and-Static-Methods-Demystified_Watermarked.5bce71bc29d0.jpg" width="50%">](https://www.youtube.com/watch?v=FlGiKthOFbU "Static Variables in Python")
 
 
+[Download the script in .srt format ](https://github.com/profesiglo21/gui_poo_python/blob/main/temario/static_variables/Static_variables_english.srt)
+[Download the script in .txt format ](https://github.com/profesiglo21/gui_poo_python/blob/main/temario/static_variables/Static_variables_espanol.txt)
+
+
 
 
 
