@@ -5,6 +5,7 @@
 ![image](https://github.com/profesiglo21/gui_poo_python/assets/7001197/8a1e7623-c0d2-4d6f-8199-b1b74c8bf298)
 
 [Enlace Tutorial en Fuente Original - Real Python](https://realpython.com/python-pyqt-gui-calculator/) <br>
-[Enlace tutorial en PDF](https://drive.google.com/file/d/1L75bhx-fk76q1UPCsjkLJ2k5J1Y0zUj1/view?usp=drive_link)
+[Enlace tutorial en PDF](https://drive.google.com/file/d/1L75bhx-fk76q1UPCsjkLJ2k5J1Y0zUj1/view?usp=drive_link) <br>
+[Enlace VideoTutorial en Sesion Grabada 48 - Prof. Salim Tieb Mohamedi 30/04/2024](https://drive.google.com/file/d/1L8IScZySPm4648lmc8uS0hJ7eTCu3iI5/view?usp=drive_link)
 
 
