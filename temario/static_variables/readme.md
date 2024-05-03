@@ -12,8 +12,10 @@ The Python approach is simple; it doesn’t require a static keyword.
 
 Note: All variables which are assigned a value in the class declaration are class variables. And variables that are assigned values inside methods are instance variables.
 
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://youtu.be/FlGiKthOFbU) "Now in Android: 55")    // Video Link
 
-[](https://www.youtube.com/watch?v=FlGiKthOFbU "Now in Android: 55")
 
 
 
