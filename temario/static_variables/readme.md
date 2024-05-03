@@ -13,6 +13,11 @@ The Python approach is simple; it doesn’t require a static keyword.
 Note: All variables which are assigned a value in the class declaration are class variables. And variables that are assigned values inside methods are instance variables.
 
 
+[](https://www.youtube.com/watch?v=FlGiKthOFbU "Now in Android: 55")
+
+
+
+
 
 
 
